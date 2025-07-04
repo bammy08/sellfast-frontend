@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'SellFast',
-  description: 'A message automation for businesses',
+  title: 'SellFast- WhatsApp & Telegram Business Automation',
+  description: 'Automate your WhatsApp and Telegram sales with SellFast',
 };
 
 export default function RootLayout({
